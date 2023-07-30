@@ -1,0 +1,5 @@
+elenium 
+lxml
+requests
+tqdm
+wget
